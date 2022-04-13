@@ -1,0 +1,38 @@
+! Modus Operandi Xresources theme
+
+! Foreground, background & cursor color
+*.foreground:   #000000
+*.background:   #ffffff
+*.cursorColor:  #000000
+
+! white
+*.color0:       #ffffff
+*.color8:       #5C6370
+
+! red
+*.color1:       #A60000
+*.color9:       #A60000
+
+! green
+*.color2:       #005E00
+*.color10:      #005E00
+
+! yellow
+*.color3:       #813E00
+*.color11:      #813E00
+
+! blue
+*.color4:       #0031A9
+*.color12:      #0031A9
+
+! magenta
+*.color5:       #721045
+*.color13:      #721045
+
+! cyan
+*.color6:       #00538B
+*.color14:      #00538B
+
+! black
+*.color7:       #ffffff
+*.color15:      #ffffff

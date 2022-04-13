@@ -1,0 +1,38 @@
+! Modus Vivendi Xresources theme
+
+! Foreground, background & cursor color
+*.foreground:   #ffffff
+*.background:   #000000
+*.cursorColor:  #ffffff
+
+! black
+*.color0:       #000000
+*.color8:       #5C6370
+
+! red
+*.color1:       #FF8059
+*.color9:       #FF8059
+
+! green
+*.color2:       #44BC44
+*.color10:      #44BC44
+
+! yellow
+*.color3:       #D0BC00
+*.color11:      #D0BC00
+
+! blue
+*.color4:       #2FAFFF
+*.color12:      #2FAFFF
+
+! magenta
+*.color5:       #FEACD0
+*.color13:      #FEACD0
+
+! cyan
+*.color6:       #00D3D0
+*.color14:      #00D3D0
+
+! white
+*.color7:       #ffffff
+*.color15:      #ffffff
