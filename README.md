@@ -17,7 +17,7 @@
 </h4>
 
 
-![GNOME-Terminal Modus Operandi theme](assets/xresources.png)
+![Xresources](assets/xresources.png)
 
 # Credits
 - [pacbru1260](https://github.com/pacbru1260)
